@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Facade\Facade\bin\Debug\Facade.exe.config
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Facade\Facade\bin\Debug\Facade.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Facade\Facade\bin\Debug\Facade.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Facade\Facade\obj\Debug\Facade.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Facade\Facade\obj\Debug\Facade.pdb

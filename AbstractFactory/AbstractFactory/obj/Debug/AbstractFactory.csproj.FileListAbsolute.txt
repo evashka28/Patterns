@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojAssemblyReference.cache

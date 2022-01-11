@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\adapter\Adapter2\Adapter2\bin\Debug\Adapter2.exe.config
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\adapter\Adapter2\Adapter2\bin\Debug\Adapter2.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\adapter\Adapter2\Adapter2\bin\Debug\Adapter2.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\adapter\Adapter2\Adapter2\obj\Debug\Adapter2.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\adapter\Adapter2\Adapter2\obj\Debug\Adapter2.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\adapter\Adapter2\Adapter2\obj\Debug\Adapter2.pdb

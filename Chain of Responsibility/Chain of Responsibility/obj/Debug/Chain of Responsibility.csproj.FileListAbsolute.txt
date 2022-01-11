@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe.config
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Chain of Responsibility\Chain of Responsibility\bin\Debug\Chain of Responsibility.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Chain of Responsibility\Chain of Responsibility\obj\Debug\Chain of Responsibility.pdb

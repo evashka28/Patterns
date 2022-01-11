@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Template Method\Template Method\bin\Debug\Template Method.exe.config
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Template Method\Template Method\bin\Debug\Template Method.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Template Method\Template Method\bin\Debug\Template Method.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Template Method\Template Method\obj\Debug\Template Method.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Template Method\Template Method\obj\Debug\Template Method.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Template Method\Template Method\obj\Debug\Template Method.pdb

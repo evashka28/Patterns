@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\Admin\Desktop\универ\3 курс\икс\паттерны\Strategy\Strategy\obj\Debug\Strategy.pdb
